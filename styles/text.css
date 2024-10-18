@@ -1,0 +1,53 @@
+
+  p{
+        margin-top: 0px;
+        margin-bottom: 0px;
+        font-family: Roboto;
+    }
+    .para1{
+    
+        font-size:18px;
+        font-weight:bold;
+        width:270px;
+        line-height:24px;
+    
+    }
+
+    .para2{
+        
+        font-size:14px;
+        color:#606060;
+        margin-top: 5px;
+        margin-bottom: 16px;
+    }
+    .para3{
+        
+        font-size: 14px;
+        color: #606060;
+    }
+    .para4{
+        width:270px;
+        font-family: Arial;
+        color:#606060;
+        font-size: 14px;
+        line-height: 18px;
+        margin-top:14px;
+    }
+    .para5{
+        margin-top: 100px;
+        text-align: center;
+        background-color: #e34140;;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        color: white;
+        font-size: 14px;
+        
+
+    }
+    .span-example:hover{
+        text-decoration: underline;
+    }
+    .link{
+        color:white;
+
+    }
